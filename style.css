@@ -63,4 +63,22 @@
   gap: 14px;
 }
 
+.buttons button {
+  height: 75px;
+  font-size: 1.7em;
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  background: #111120;
+  color: #0ff;
+  font-weight: bold;
+  transition: all 0.2s ease;
+  box-shadow:
+    0 4px 10px rgba(0, 0, 0, 0.5),
+    inset 0 0 6px rgba(0, 100, 150, 0.4);
+  position: relative;
+  overflow: hidden;
+}
+
+
 
