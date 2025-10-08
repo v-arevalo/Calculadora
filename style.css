@@ -96,6 +96,21 @@
     inset 0 0 10px rgba(0, 180, 220, 0.6);
 }
 
+/* Botón C - Rosa neón */
+.buttons button:nth-child(1) {
+  color: #ff00ff;
+  box-shadow:
+    0 0 10px rgba(255, 0, 255, 0.3),
+    inset 0 0 6px rgba(150, 0, 150, 0.4);
+}
+
+.buttons button:nth-child(1):hover {
+  color: white;
+  box-shadow:
+    0 0 22px rgba(255, 0, 255, 0.6),
+    inset 0 0 10px rgba(200, 0, 200, 0.7);
+}
+
 
 
 
