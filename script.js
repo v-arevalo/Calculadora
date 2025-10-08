@@ -88,3 +88,5 @@ function calculateResult() {
   }
 }
 
+// Iniciar partículas al cargar
+window.onload = createParticles;
